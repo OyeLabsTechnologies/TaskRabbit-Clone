@@ -59,7 +59,7 @@ Offer a demo or free trial to help new users explore. Show them how to post a ta
 
 ---
 
-Launching your TaskRabbit Clone with **PHP Laravel & Flutter 3.10.6** is your chance to tap into the growing demand for on-demand services. With the right features, strong support, and a seamless user experience, your app can quickly become a go-to solution for customers and taskers.  
+Launching your TaskRabbit Clone is your chance to tap into the growing demand for on-demand services. With the right features, strong support, and a seamless user experience, your app can quickly become the go-to solution for both customers and taskers.
 
 ## 🌐 Sources  
 [TaskRabbit Clone – Build Your Own On-Demand Service Marketplace](https://oyelabs.com/taskrabbit-clone/)
