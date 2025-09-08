@@ -1,49 +1,65 @@
-# TaskRabbit Clone – MoonService by Oyelabs  
+![Version](https://img.shields.io/badge/version-3.6.0-blue.svg?cacheSeconds=2592000)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oyelabs?lang=en)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myoyelabs/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oyelabs9119?si=jpMaBUfNigpVCjuf)
 
-MoonService by Oyelabs helps you launch your own TaskRabbit-like platform where people can book trusted service providers for everyday needs. From fixing a leaky tap to moving furniture, your users can get help in just a few taps.  
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://oyelabs.com/taskrabbit-clone/">
+    <img src="https://oyelabs.com/wp-content/uploads/2024/03/Taskrabbit-Clone.png" alt="Logo" width="120" height="120">
+  </a>
 
-***MOONSERVICE – Your Shortcut to an On-Demand Service App*** 
+  <h3 align="center">Launch TaskRabbit Clone</h3>
 
-MoonService is a [ready-to-use solution](https://oyelabs.com/taskrabbit-clone/) for building a marketplace where customers and service providers connect. Whether you want to specialize in home cleaning, repairs, errands, or offer a wide range of services, MoonService gives you the flexibility to create a platform tailored to your goals.  
+  <p align="center">
+    A TaskRabbit Clone App built with PHP Laravel & Flutter 3.10.6
+    <br />
+    <a href="https://oyelabs.com/taskrabbit-clone/"><strong>Explore the Product »</strong></a>
+    <br />
+    <br />
 
-Built with **Laravel** for the backend and **Flutter** for the mobile apps, MoonService ensures smooth performance on both iOS and Android. Inspired by **TaskRabbit**, but fully customizable to reflect your brand and business model.  
+### How to Launch Your TaskRabbit Clone: A Complete Guide  
 
-***Why Choose MoonService?***  
+On-demand services have changed how people get everyday tasks done. From furniture assembly and cleaning to deliveries and handyman work, users want quick access to trusted help. With a **TaskRabbit Clone**, you can build a platform that connects skilled workers with people who need their services: fast, reliable, and all in one app.  
 
-Because starting from scratch takes too long. MoonService gives you the core features already in place, so you can launch quickly and focus on growing your marketplace. Plus, we stay with you year-round to handle updates and support.  
+Here’s how to set up your own TaskRabbit-style marketplace.  
 
-***Key Features of MoonService***  
+***Step 1: Understand the Model*** 
 
-**For Customers**  
-- Find services by category or location  
-- Book instantly or schedule for later  
-- Real-time tracking of providers  
-- Secure, easy payments  
-- Ratings and reviews after each job  
+A TaskRabbit Clone brings together **task posters** (customers) and **taskers** (service providers). Customers post tasks with details, budgets, and timelines. Taskers accept jobs, complete them, and get paid through the platform.  
 
-**For Service Providers**  
-- Build a profile with skills and availability  
-- Get job requests in real-time  
-- Manage bookings and earnings in one place  
-- Chat directly with customers  
-- Grow reputation with reviews  
+This model works best when it’s transparent, easy to use, and ensures trust for both sides.  
 
-**For Admins**  
-- Dashboard to manage customers, providers, and tasks  
-- Set and manage commission rates  
-- Handle disputes and refunds  
-- Create promo codes and referral offers  
-- Track growth with reports and analytics  
-- Multi-language and multi-currency ready  
+***Step 2: Must-Have Features for Success***  
 
-***Why It Works***  
+To make your platform engaging and reliable, include:  
 
-People want services done quickly and reliably. MoonService brings both sides together in one app that’s easy to use and built to scale as you expand.  
+- **Task Posting & Browsing** – Customers can create tasks, and taskers can search or get matched.  
+- **Secure Payments** – Safe transactions for both parties.  
+- **Custom Profiles & Ratings** – Taskers showcase skills, and customers rate experiences.  
+- **Job Tracking** – Track ongoing tasks with status updates.  
+- **Messaging & Notifications** – Enable smooth communication.  
+- **Multi-Category Support** – From cleaning to delivery, cover diverse needs.  
+- **Scheduling & Availability** – Let users set times that fit their schedules.  
 
-We’re available **365 days a year** to help you with support, updates, and improvements whenever you need.  
+These features make your app a professional, user-friendly service marketplace.  
 
-Ready to launch your own **TaskRabbit-style app**? MoonService is the fastest way to get there.  
+***Step 3: Share Your Story***  
 
-📧 Email: **myoyelabs@gmail.com**  
-🌐 TaskRabbit Clone Script: [https://oyelabs.com/taskrabbit-clone/](https://oyelabs.com/taskrabbit-clone/)  
-🌐 Website: [www.oyelabs.com](http://www.oyelabs.com/)  
+Your TaskRabbit Clone isn’t just a platform, it’s a solution for busy lives. Highlight how it saves time for customers while giving freelancers and part-timers new earning opportunities. Use blogs, campaigns, and testimonials to show real benefits and build trust.  
+
+***Step 4: Back It Up With Insights*** 
+
+Show how the demand for on-demand home and personal services is growing fast. Point out how multi-service platforms save users money and time while creating steady income for taskers. Insights and data will make your platform more appealing to users and investors alike.  
+
+***Step 5: Let Users Try It***  
+
+Offer a demo or free trial to help new users explore. Show them how to post a task, accept a job, and complete the process smoothly.  
+
+---
+
+Launching your TaskRabbit Clone with **PHP Laravel & Flutter 3.10.6** is your chance to tap into the growing demand for on-demand services. With the right features, strong support, and a seamless user experience, your app can quickly become a go-to solution for customers and taskers.  
+
+## 🌐 Sources  
+[TaskRabbit Clone – Build Your Own On-Demand Service Marketplace](https://oyelabs.com/taskrabbit-clone/)
